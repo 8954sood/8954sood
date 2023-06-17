@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=200&text=Android%20Developer&fontColor=FFFFFF)
 
-### Welcome to Park Byung Jun's GitHub 
+### Welcome to Park Byung Jun's GitHub 👋
 
 ### Once I've used
 
