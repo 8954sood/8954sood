@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=200&text=Android%20Developer&fontColor=FFFFFF)
 
-<!--
-**8954sood/8954sood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to Park Byung Jun's GitHub 
 
-Here are some ideas to get you started:
+### Once I've used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/>
+
+</br>
+
+![ByungJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=8954sood&show_icons=true&theme=radical)
+</div>
