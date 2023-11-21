@@ -8,8 +8,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/>
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
 
 </br>
 
