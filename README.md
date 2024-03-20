@@ -5,13 +5,18 @@
 ### Welcome to Park Byung Jun's GitHub 👋
 
 ### Once I've used
-
 <br>
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://python.org/)
 
 </br>
+<br>
 
 ![ByungJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=8954sood&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=8954sood&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook)
+
+
+</br>
+
 </div>
